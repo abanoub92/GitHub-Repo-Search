@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GitHub Repo Search</string>
+
+    <!-- -->
+    <!-- EditText hint tell the user search here -->
+    <string name="edit_text_hint">Enter a Query</string>
+
+    <!-- TextView well display the user search url -->
+    <string name="text_view_hint">Search URL</string>
+
+    <!-- TextView well display the user search result -->
+    <string name="text_view_result">Search Result</string>
+</resources>
