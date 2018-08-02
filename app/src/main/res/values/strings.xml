@@ -10,4 +10,7 @@
 
     <!-- TextView well display the user search result -->
     <string name="text_view_result">Search Result</string>
+
+    <!-- search used as a title of menu item -->
+    <string name="action_menu_search">Search</string>
 </resources>
